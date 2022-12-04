@@ -31,7 +31,7 @@ struct BaseStats
  /* 0x18 */ u8 safariZoneFleeRate;
  /* 0x19 */ u8 bodyColor : 7;
             u8 noFlip : 1;
- /* 0x1A */	u8 hiddenAbility;		
+ /* 0x1A */ u8 hiddenAbility;       
 };
 
 enum
@@ -97,8 +97,15 @@ enum
 #define TYPE_DRAGON   0x10
 #define TYPE_DARK     0x11
 #define TYPE_ROOSTLESS 0x13
-#define TYPE_BLANK	  0x14
-#define TYPE_FAIRY	  0x17
+#define TYPE_BLANK    0x14
+#define TYPE_FAIRY    0x17
+#define TYPE_BEAST    0x18
+#define TYPE_SOUND    0x19
+#define TYPE_LIGHT    0x1a
+#define TYPE_COSMIC   0x1b
+#define TYPE_RELIC    0x1c
+#define TYPE_MYSTIC   0x1d
+#define TYPE_FOOD     0x1e
 
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE
