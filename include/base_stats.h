@@ -106,6 +106,7 @@ enum
 #define TYPE_RELIC    0x1c
 #define TYPE_MYSTIC   0x1d
 #define TYPE_FOOD     0x1e
+#define TYPE_FUNGUS   0x1f
 
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE
