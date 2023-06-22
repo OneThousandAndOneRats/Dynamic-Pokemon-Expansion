@@ -10887,6 +10887,105 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 0,
 		.trainerOffset = 0,
 	},
+	[NATIONAL_DEX_ANNIHILAPE] =
+	{
+		.categoryName = {_R, _a, _g, _e, _SPACE, _M, _o, _n, _k, _e, _y, _END},
+		.height = 12,
+		.weight = 560,
+		.description = DEX_ENTRY_ANNIHILAPE,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_VAROOM] =
+	{
+		.categoryName = {_S, _i, _n, _g, _l, _e, _HYPHEN, _C, _y, _l, _END, _SPACE},
+		.height = 10,
+		.weight = 350,
+		.description = DEX_ENTRY_VAROOM,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_REVAVROOM] =
+	{
+		.categoryName = {_M, _u, _l, _t, _i, _HYPHEN, _C, _y, _l, _END, _SPACE},
+		.height = 18,
+		.weight = 1200,
+		.description = DEX_ENTRY_REVAVROOM,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_TOEDSCOOL] =
+	{
+		.categoryName = {_W, _o, _o, _d, _e, _a, _r, _END, _SPACE},
+		.height = 9,
+		.weight = 330,
+		.description = DEX_ENTRY_TOEDSCOOL,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+	[NATIONAL_DEX_TOEDSCRUEL] =
+	{
+		.categoryName = {_W, _o, _o, _d, _e, _a, _r, _END, _SPACE},
+		.height = 19,
+		.weight = 580,
+		.description = DEX_ENTRY_TOEDSCRUEL,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_GIMMIGHOUL] =
+	{
+		.categoryName = {_C, _o, _i, _n, _SPACE, _C, _h, _e, _s, _t, _END, _SPACE},
+		.height = 3,
+		.weight = 50,
+		.description = DEX_ENTRY_GIMMIGHOUL,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_GHOLDENGO] =
+	{
+		.categoryName = {_C, _o, _i, _n, _SPACE, _E, _n, _t, _i, _t, _y, _END},
+		.height = 12,
+		.weight = 300,
+		.description = DEX_ENTRY_GHOLDENGO,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_BRUTEBONNET] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE},
+		.height = 12,
+		.weight = 210,
+		.description = DEX_ENTRY_BRUTEBONNET,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 356,
+		.pokemonOffset = 17,
+		.trainerScale = 256,
+		.trainerOffset = 0,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed

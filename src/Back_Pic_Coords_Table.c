@@ -6305,6 +6305,49 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0x9,
 	},
+
+	[SPECIES_ANNIHILAPE] =
+	{
+		.size = 0x0,
+		.y_offset = 0xa,
+	},
+	[SPECIES_VAROOM] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	[SPECIES_REVAVROOM] =
+	{
+		.size = 0x0,
+		.y_offset = 0x10,
+	},
+	[SPECIES_TOEDSCOOL] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	[SPECIES_TOEDSCRUEL] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	[SPECIES_GIMMIGHOUL] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_GHOLDENGO] =
+	{
+		.size = 0x0,
+		.y_offset = 0x0,
+	},
+	[SPECIES_BRUTEBONNET] =
+	{
+		.size = 0x0,
+		.y_offset = 0xd,
+	},
+	
+	
 	[SPECIES_VENUSAUR_GIGA] =
 	{
 		.size = 0x0,

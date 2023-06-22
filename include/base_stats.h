@@ -107,6 +107,8 @@ enum
 #define TYPE_MYSTIC   0x1d
 #define TYPE_FOOD     0x1e
 #define TYPE_FUNGUS   0x1f
+#define TYPE_TECH   0x20
+#define TYPE_SHADOW   0x21
 
 #define MON_MALE       0x00
 #define MON_FEMALE     0xFE

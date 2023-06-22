@@ -464,6 +464,8 @@ const u16 gForestPage4[] =
 {
 	SPECIES_CASCOON,
 	SPECIES_DUSTOX,
+	SPECIES_TOEDSCOOL,
+	SPECIES_TOEDSCRUEL,
 };
 
 const u16 gForestPage5[] =
@@ -1643,8 +1645,7 @@ const u16 gMountainPage3[] =
 {
 	SPECIES_MANKEY,
 	SPECIES_PRIMEAPE,
-	SPECIES_SPOINK,
-	SPECIES_GRUMPIG,
+	SPECIES_ANNIHILAPE,
 };
 
 const u16 gMountainPage4[] =
@@ -1740,6 +1741,8 @@ const u16 gMountainPage16[] =
 {
 	SPECIES_MUNCHLAX,
 	SPECIES_SNORLAX,
+	SPECIES_SPOINK,
+	SPECIES_GRUMPIG,
 };
 
 const u16 gMountainPage17[] =
@@ -2145,6 +2148,8 @@ const u16 gUrbanPage5[] =
 {
 	SPECIES_SHUPPET,
 	SPECIES_BANETTE,
+	SPECIES_VAROOM,
+	SPECIES_REVAVROOM,
 };
 
 const u16 gUrbanPage6[] =
@@ -2353,6 +2358,8 @@ const u16 gUrbanPage35[] =
 {
 	SPECIES_MILCERY,
 	SPECIES_ALCREMIE_STRAWBERRY,
+	SPECIES_GIMMIGHOUL,
+	SPECIES_GHOLDENGO,
 };
 
 const u16 gUrbanPage36[] =
@@ -2383,6 +2390,7 @@ const u16 gRarePage2[] =
 const u16 gRarePage3[] =
 {
 	SPECIES_RAYQUAZA,
+	SPECIES_BRUTEBONNET,
 };
 
 const u16 gRarePage4[] =

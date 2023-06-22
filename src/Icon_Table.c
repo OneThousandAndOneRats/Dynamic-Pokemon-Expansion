@@ -1265,7 +1265,16 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_OVERQWIL] =             gIconSprite1257OverqwilTiles,
 	[SPECIES_ENAMORUS] =             gIconSprite1258EnamorusTiles,
 	[SPECIES_ENAMORUS_THERIAN] =     gIconSprite1259EnamorusTherianTiles,
-	
+
+	[SPECIES_ANNIHILAPE] =			 gIconSprite1260AnnihilapeTiles,
+	[SPECIES_VAROOM] =				 gIconSprite1261VaroomTiles,
+	[SPECIES_REVAVROOM] =			 gIconSprite1262RevavroomTiles,
+	[SPECIES_TOEDSCOOL] =			 gIconSprite1263ToedscoolTiles,
+	[SPECIES_TOEDSCRUEL] =			 gIconSprite1264ToedscruelTiles,
+	[SPECIES_GIMMIGHOUL] =			 gIconSprite1265GimmighoulTiles,
+	[SPECIES_GHOLDENGO] =			 gIconSprite1266GholdengoTiles,
+	[SPECIES_BRUTEBONNET] =			 gIconSprite1267BruteBonnetTiles,
+
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,
 	[SPECIES_CHARIZARD_GIGA] =       gIconSpriteGigaCharizardTiles,
 	[SPECIES_BLASTOISE_GIGA] =       gIconSpriteGigaBlastoiseTiles,

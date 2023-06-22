@@ -49,9 +49,12 @@ enum EvolutionMethods
 	EVO_NATURE_LOW, // evolution based on low key nature at a certain level
 	EVO_DAMAGE_LOCATION, // recieve 49+ damage in battle without fainting, walk to specific tile
 	EVO_ITEM_LOCATION, // Stand on a tile with a certain behaviour and use an item on a Pokemon
+	EVO_LEVEL_HOLD_ITEM, // Level up to a certain level while holding an item
+	EVO_ITEM_HOLD_ITEM, // Use and item on a Pokemon while its holding an item
 	EVO_MOVE_MALE, //If Male and if knowing a certain move
 	EVO_MOVE_FEMALE, //If male and if knowing a certain move
-	EVO_LEVEL_HOLD_ITEM, //On level up if holding a certain item
+	EVO_ITEM_NIGHT, // Item is used on it at night,
+	EVO_COINS, //On level up if player has enough coins
 };
 
 #define EVO_GIGANTAMAX 0xFD

@@ -1267,7 +1267,17 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_SNEASLER] =             {gFrontSprite1256SneaslerPal, SPECIES_SNEASLER, 0x0},
 	[SPECIES_OVERQWIL] =             {gFrontSprite1257OverqwilPal, SPECIES_OVERQWIL, 0x0},
 	[SPECIES_ENAMORUS] =             {gFrontSprite1258EnamorusPal, SPECIES_ENAMORUS, 0x0},
-	[SPECIES_ENAMORUS_THERIAN] =     {gFrontSprite1259EnamorusTherianPal, SPECIES_ENAMORUS_THERIAN, 0x0},	
+	[SPECIES_ENAMORUS_THERIAN] =     {gFrontSprite1259EnamorusTherianPal, SPECIES_ENAMORUS_THERIAN, 0x0},
+
+	[SPECIES_ANNIHILAPE] =           {gFrontSprite1260AnnihilapePal, SPECIES_ANNIHILAPE, 0x0},
+	[SPECIES_VAROOM] =          	 {gFrontSprite1261VaroomPal, SPECIES_VAROOM, 0x0},
+	[SPECIES_REVAVROOM] =            {gFrontSprite1262RevavroomPal, SPECIES_REVAVROOM, 0x0},
+	[SPECIES_TOEDSCOOL] =            {gFrontSprite1263ToedscoolPal, SPECIES_TOEDSCOOL, 0x0},
+	[SPECIES_TOEDSCRUEL] =           {gFrontSprite1264ToedscruelPal, SPECIES_TOEDSCRUEL, 0x0},
+	[SPECIES_GIMMIGHOUL] =           {gFrontSprite1265GimmighoulPal, SPECIES_GIMMIGHOUL, 0x0},
+	[SPECIES_GHOLDENGO] =            {gFrontSprite1266GholdengoPal, SPECIES_GHOLDENGO, 0x0},
+	[SPECIES_BRUTEBONNET] =          {gFrontSprite1267BruteBonnetPal, SPECIES_BRUTEBONNET, 0x0},
+
 	
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},
 	[SPECIES_CHARIZARD_GIGA] =       {gFrontSpriteGigaCharizardPal, SPECIES_CHARIZARD_GIGA, 0x0},

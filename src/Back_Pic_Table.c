@@ -1269,6 +1269,16 @@ const struct CompressedSpriteSheet gMonBackPicTable[NUM_SPECIES] =
 	[SPECIES_ENAMORUS] =             {gBackShinySprite1258EnamorusTiles, (64 * 64) / 2, SPECIES_ENAMORUS},
 	[SPECIES_ENAMORUS_THERIAN] =     {gBackShinySprite1259EnamorusTherianTiles, (64 * 64) / 2, SPECIES_ENAMORUS_THERIAN},
 	
+	[SPECIES_ANNIHILAPE] =           {gBackShinySprite1260AnnihilapeTiles, (64 * 64) / 2, SPECIES_ANNIHILAPE},
+	[SPECIES_VAROOM] =           	 {gBackShinySprite1261VaroomTiles, (64 * 64) / 2, SPECIES_VAROOM},
+	[SPECIES_REVAVROOM] =            {gBackShinySprite1262RevavroomTiles, (64 * 64) / 2, SPECIES_REVAVROOM},
+	[SPECIES_TOEDSCOOL] =            {gBackShinySprite1263ToedscoolTiles, (64 * 64) / 2, SPECIES_TOEDSCOOL},
+	[SPECIES_TOEDSCRUEL] =           {gBackShinySprite1264ToedscruelTiles, (64 * 64) / 2, SPECIES_TOEDSCRUEL},
+	[SPECIES_GIMMIGHOUL] =           {gBackShinySprite1265GimmighoulTiles, (64 * 64) / 2, SPECIES_GIMMIGHOUL},
+	[SPECIES_GHOLDENGO] =            {gBackShinySprite1266GholdengoTiles, (64 * 64) / 2, SPECIES_GHOLDENGO},
+	[SPECIES_BRUTEBONNET] =          {gBackShinySprite1267BruteBonnetTiles, (64 * 64) / 2, SPECIES_BRUTEBONNET},
+
+
 	[SPECIES_VENUSAUR_GIGA] =        {gBackShinySpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},
 	[SPECIES_CHARIZARD_GIGA] =       {gBackShinySpriteGigaCharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD_GIGA},
 	[SPECIES_BLASTOISE_GIGA] =       {gBackShinySpriteGigaBlastoiseTiles, (64 * 64) / 2, SPECIES_BLASTOISE_GIGA},
