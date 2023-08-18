@@ -40957,12 +40957,45 @@ const struct BaseStats gBaseStats[] =
         .growthRate = GROWTH_SLOW,
         .eggGroup1 = EGG_GROUP_UNDISCOVERED,
         .eggGroup2 = EGG_GROUP_UNDISCOVERED,
-        .ability1 = ABILITY_FILTER, // also Temp ability
+        .ability1 = ABILITY_BEASTBOOST, // also Temp ability
         .ability2 = ABILITY_NONE,
         .safariZoneFleeRate = 0,
         .hiddenAbility = ABILITY_NONE,
         .noFlip = TRUE,
     },
+    
+    [SPECIES_CRYSONIX] =
+	{
+		.baseHP 		= 35,
+		.baseAttack 	= 45,
+		.baseDefense 	= 160,
+		.baseSpAttack 	= 30,
+		.baseSpDefense 	= 45,
+		.baseSpeed 		= 70,
+		.type1 = TYPE_CRYSTAL,
+		.type2 = TYPE_CRYSTAL,
+		.catchRate = 45,
+		.expYield = 108,
+		.evYield_HP 		= 0,
+		.evYield_Attack 	= 0,
+		.evYield_Defense 	= 1,
+		.evYield_SpAttack 	= 0,
+		.evYield_SpDefense 	= 0,
+		.evYield_Speed 		= 0,
+		.item1 = ITEM_NONE,
+		.item2 = ITEM_HARD_STONE,
+		.genderRatio = PERCENT_FEMALE(50),
+		.eggCycles = 25,
+		.friendship = 50,
+		.growthRate = GROWTH_MEDIUM_FAST,
+		.eggGroup1 = EGG_GROUP_MINERAL,
+		.eggGroup2 = EGG_GROUP_MINERAL,
+        .ability1 = ABILITY_OVERCOAT, // also Good as Gold
+		.ability2 = ABILITY_MAGICBOUNCE,
+		.safariZoneFleeRate = 0,
+		.hiddenAbility = ABILITY_NONE,
+		.noFlip = TRUE,
+	},
 
 	[SPECIES_VENUSAUR_GIGA] =
 	{

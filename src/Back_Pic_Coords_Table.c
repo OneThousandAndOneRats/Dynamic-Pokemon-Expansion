@@ -6346,6 +6346,11 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0xd,
 	},
+	[SPECIES_CRYSONIX] =
+	{
+		.size = 0x78,
+		.y_offset = 0x0,
+	},
 	
 	
 	[SPECIES_VENUSAUR_GIGA] =

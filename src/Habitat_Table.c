@@ -2467,6 +2467,7 @@ const u16 gRarePage13[] =
 const u16 gRarePage14[] =
 {
 	SPECIES_VICTINI,
+	SPECIES_CRYSONIX,
 };
 
 const u16 gRarePage15[] =

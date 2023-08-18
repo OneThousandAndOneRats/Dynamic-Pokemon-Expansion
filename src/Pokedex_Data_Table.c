@@ -10986,6 +10986,18 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 256,
 		.trainerOffset = 0,
 	},
+	[NATIONAL_DEX_CRYSONIX] =
+	{
+		.categoryName = {_C, _r, _y, _s, _t, _a , _l, _END, _SPACE},
+		.height = 88,
+		.weight = 2100,
+		.description = DEX_ENTRY_CRYSONIX,
+		.unusedDescription = (const u8*) 0x8447281,
+		.pokemonScale = 257,
+		.pokemonOffset = 0,
+		.trainerScale = 515,
+		.trainerOffset = 12,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed

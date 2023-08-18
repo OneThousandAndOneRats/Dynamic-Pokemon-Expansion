@@ -1243,6 +1243,7 @@ extern const u8 gFrontSprite1264ToedscruelTiles[];
 extern const u8 gFrontSprite1265GimmighoulTiles[];
 extern const u8 gFrontSprite1266GholdengoTiles[];
 extern const u8 gFrontSprite1267BruteBonnetTiles[];
+extern const u8 gFrontSprite1268CrysOnixTiles[];
 
 extern const u8 gFrontSpriteGigaVenusaurTiles[];
 extern const u8 gFrontSpriteGigaCharizardTiles[];
@@ -2522,6 +2523,8 @@ extern const u8 gBackShinySprite1264ToedscruelTiles[];
 extern const u8 gBackShinySprite1265GimmighoulTiles[];
 extern const u8 gBackShinySprite1266GholdengoTiles[];
 extern const u8 gBackShinySprite1267BruteBonnetTiles[];
+extern const u8 gBackShinySprite1268CrysOnixTiles[];
+
 
 extern const u8 gBackShinySpriteGigaVenusaurTiles[];
 extern const u8 gBackShinySpriteGigaCharizardTiles[];
@@ -3805,6 +3808,7 @@ extern const u8 gFrontSprite1264ToedscruelPal[];
 extern const u8 gFrontSprite1265GimmighoulPal[];
 extern const u8 gFrontSprite1266GholdengoPal[];
 extern const u8 gFrontSprite1267BruteBonnetPal[];
+extern const u8 gFrontSprite1268CrysOnixPal[];
 
 extern const u8 gFrontSpriteGigaVenusaurPal[];
 extern const u8 gFrontSpriteGigaCharizardPal[];
@@ -5084,6 +5088,7 @@ extern const u8 gBackShinySprite1264ToedscruelPal[];
 extern const u8 gBackShinySprite1265GimmighoulPal[];
 extern const u8 gBackShinySprite1266GholdengoPal[];
 extern const u8 gBackShinySprite1267BruteBonnetPal[];
+extern const u8 gBackShinySprite1268CrysOnixPal[];
 
 extern const u8 gBackShinySpriteGigaVenusaurPal[];
 extern const u8 gBackShinySpriteGigaCharizardPal[];
@@ -6367,6 +6372,7 @@ extern const u8 gIconSprite1264ToedscruelTiles[];
 extern const u8 gIconSprite1265GimmighoulTiles[];
 extern const u8 gIconSprite1266GholdengoTiles[];
 extern const u8 gIconSprite1267BruteBonnetTiles[];
+extern const u8 gIconSprite1268CrysOnixTiles[];
 
 extern const u8 gIconSpriteGigaVenusaurTiles[];
 extern const u8 gIconSpriteGigaCharizardTiles[];
