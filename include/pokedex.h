@@ -1024,8 +1024,10 @@ enum
 #define NATIONAL_DEX_GHOLDENGO 912
 #define NATIONAL_DEX_BRUTEBONNET 913
 #define NATIONAL_DEX_CRYSONIX 914
+#define NATIONAL_DEX_SHDWLUGIA 915
+#define NATIONAL_DEX_SHDWHO_OH 916
 
-#define FINAL_DEX_ENTRY NATIONAL_DEX_CRYSONIX //Not +1 b/c used like this for some asm
+#define FINAL_DEX_ENTRY NATIONAL_DEX_SHDWHO_OH //Not +1 b/c used like this for some asm
 #define NATIONAL_DEX_COUNT FINAL_DEX_ENTRY + 1
 
 extern const u8 DEX_ENTRY_TURTWIG[];
@@ -1645,3 +1647,5 @@ extern const u8 DEX_ENTRY_GIMMIGHOUL[];
 extern const u8 DEX_ENTRY_GHOLDENGO[];
 extern const u8 DEX_ENTRY_BRUTEBONNET[];
 extern const u8 DEX_ENTRY_CRYSONIX[];
+extern const u8 DEX_ENTRY_SHDWLUGIA[];
+extern const u8 DEX_ENTRY_SHDWHO_OH[];

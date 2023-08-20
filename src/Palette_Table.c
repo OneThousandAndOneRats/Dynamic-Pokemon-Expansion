@@ -1278,6 +1278,8 @@ const struct CompressedSpritePalette gMonPaletteTable[NUM_SPECIES] =
 	[SPECIES_GHOLDENGO] =            {gFrontSprite1266GholdengoPal, SPECIES_GHOLDENGO, 0x0},
 	[SPECIES_BRUTEBONNET] =          {gFrontSprite1267BruteBonnetPal, SPECIES_BRUTEBONNET, 0x0},
 	[SPECIES_CRYSONIX] =	         {gFrontSprite1268CrysOnixPal, SPECIES_CRYSONIX, 0x0},
+	[SPECIES_SHDWLUGIA] =	         {gFrontSprite1269ShdwLugiaPal, SPECIES_SHDWLUGIA, 0x0},
+	[SPECIES_SHDWHO_OH] =	         {gFrontSprite1270ShdwHoOhPal, SPECIES_SHDWHO_OH, 0x0},
 
 	
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurPal, SPECIES_VENUSAUR_GIGA, 0x0},

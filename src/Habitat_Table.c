@@ -2468,6 +2468,8 @@ const u16 gRarePage14[] =
 {
 	SPECIES_VICTINI,
 	SPECIES_CRYSONIX,
+	SPECIES_SHDWLUGIA,
+	SPECIES_SHDWHO_OH,
 };
 
 const u16 gRarePage15[] =

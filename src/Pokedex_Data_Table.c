@@ -10998,6 +10998,30 @@ const struct PokedexEntry gPokedexEntries[NATIONAL_DEX_COUNT] =
 		.trainerScale = 515,
 		.trainerOffset = 12,
 	},
+	[NATIONAL_DEX_SHDWLUGIA] =
+	{
+		.categoryName = {_C, _o, _r, _r, _u, _p, _t, _e, _d, _END, _SPACE},
+		.height = 52,
+		.weight = 2160,
+		.description = DEX_ENTRY_SHDWLUGIA,
+		.unusedDescription = (const u8*) 0x844af0f,
+		.pokemonScale = 283,
+		.pokemonOffset = 0,
+		.trainerScale = 742,
+		.trainerOffset = 18,
+	},
+	[NATIONAL_DEX_SHDWHO_OH] =
+	{
+		.categoryName = {_C, _o, _r, _r, _u, _p, _t, _e, _d, _END, _SPACE},
+		.height = 38,
+		.weight = 1990,
+		.description = DEX_ENTRY_SHDWHO_OH,
+		.unusedDescription = (const u8*) 0x844af76,
+		.pokemonScale = 283,
+		.pokemonOffset = 0,
+		.trainerScale = 620,
+		.trainerOffset = 16,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed

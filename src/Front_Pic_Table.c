@@ -1278,6 +1278,8 @@ const struct CompressedSpriteSheet gMonFrontPicTable[NUM_SPECIES] =
 	[SPECIES_GHOLDENGO] =            {gFrontSprite1266GholdengoTiles, (64 * 64) / 2, SPECIES_GHOLDENGO},
 	[SPECIES_BRUTEBONNET] =          {gFrontSprite1267BruteBonnetTiles, (64 * 64) / 2, SPECIES_BRUTEBONNET},
 	[SPECIES_CRYSONIX] =          	 {gFrontSprite1268CrysOnixTiles, (64 * 64) / 2, SPECIES_CRYSONIX},
+	[SPECIES_SHDWLUGIA] =          	 {gFrontSprite1269ShdwLugiaTiles, (64 * 64) / 2, SPECIES_SHDWLUGIA},
+	[SPECIES_SHDWHO_OH] =          	 {gFrontSprite1270ShdwHoOhTiles, (64 * 64) / 2, SPECIES_SHDWHO_OH},
 
 	[SPECIES_VENUSAUR_GIGA] =        {gFrontSpriteGigaVenusaurTiles, (64 * 64) / 2, SPECIES_VENUSAUR_GIGA},
 	[SPECIES_CHARIZARD_GIGA] =       {gFrontSpriteGigaCharizardTiles, (64 * 64) / 2, SPECIES_CHARIZARD_GIGA},

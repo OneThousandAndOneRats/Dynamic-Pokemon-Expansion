@@ -1275,6 +1275,8 @@ const u8* const gMonIconTable[NUM_SPECIES] =
 	[SPECIES_GHOLDENGO] =			 gIconSprite1266GholdengoTiles,
 	[SPECIES_BRUTEBONNET] =			 gIconSprite1267BruteBonnetTiles,
 	[SPECIES_CRYSONIX] =			 gIconSprite1268CrysOnixTiles,
+	[SPECIES_SHDWLUGIA] =			 gIconSprite1269ShdwLugiaTiles,
+	[SPECIES_SHDWHO_OH] =			 gIconSprite1270ShdwHoOhTiles,
 
 	[SPECIES_VENUSAUR_GIGA] =        gIconSpriteGigaVenusaurTiles,
 	[SPECIES_CHARIZARD_GIGA] =       gIconSpriteGigaCharizardTiles,
